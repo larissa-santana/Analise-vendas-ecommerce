@@ -1,0 +1,10 @@
+ID_Produto,Categoria,Data_Venda,Preco_Unitario,Quantidade_Vendida,Total_Venda,Regiao,Cliente
+1001,Eletrodomésticos,2023-01-15,450.0,2,900.0,Sul,João
+1002,Eletrônicos,2023-01-20,1200.0,1,1200.0,Sudeste,Maria
+1003,Móveis,2023-02-10,150.0,3,450.0,Nordeste,Carlos
+1004,Eletrodomésticos,2023-03-05,750.0,1,750.0,Sul,Ana
+1005,Eletrônicos,2023-04-25,2200.0,1,2200.0,Nordeste,Pedro
+1006,Móveis,2023-05-12,300.0,2,600.0,Sudeste,Julia
+1007,Eletrodomésticos,2023-06-18,500.0,2,1000.0,Nordeste,Fernando
+1008,Eletrônicos,2023-07-08,1800.0,1,1800.0,Sul,Paula
+1009,Móveis,2023-08-20,100.0,4,400.0,Sudeste,Lucas
